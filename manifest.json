@@ -1,6 +1,6 @@
 {
-  "short_name": "FutbolBoton v1",
-  "name": "FutbolBoton",
+  "short_name": "SameSame v1",
+  "name": "SameSame",
   "icons": [
     {
       "src": "icono.png",
@@ -17,5 +17,5 @@
   "background_color": "#000000",
   "display": "fullscreen",
   "theme_color": "#000000",
-  "orientation": "landscape"
+  "orientation": "portratil"
 }
