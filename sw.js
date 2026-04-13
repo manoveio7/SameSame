@@ -1,5 +1,5 @@
 // Nombre del caché (puedes dejarlo vacío o con un nombre genérico)
-const CACHE_NAME = 'FutbolBoton';
+const CACHE_NAME = 'SameSame v1';
 
 // No listamos assets porque quieres que cargue online
 const ASSETS_TO_CACHE = [];
