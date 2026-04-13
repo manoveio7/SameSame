@@ -41,13 +41,13 @@ function C_carga()
 	this.load.image('nuevoRecord', './img/nuevoRecord.png');
 	
 	// Cargar los Audios del Juego
-	this.load.audio('bien', './audios/bien.mp3');
-	this.load.audio('nonono', './audios/NONONO.mp3');
-	this.load.audio('azul', './audios/azul.mp3');
-	this.load.audio('amarillo', './audios/amarillo.mp3');
-	this.load.audio('rojo', './audios/rojo.mp3');
-	this.load.audio('verde', './audios/verde.mp3');
-	this.load.audio('victoria', './audios/audioVictoria.mp3');
+	this.load.audio('bien', './Audios/bien.mp3');
+	this.load.audio('nonono', './Audios/NONONO.mp3');
+	this.load.audio('azul', './Audios/azul.mp3');
+	this.load.audio('amarillo', './Audios/amarillo.mp3');
+	this.load.audio('rojo', './Audios/rojo.mp3');
+	this.load.audio('verde', './Audios/verde.mp3');
+	this.load.audio('victoria', './Audios/audioVictoria.mp3');
 }
 
 function C_inicio()
